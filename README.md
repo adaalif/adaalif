@@ -1,53 +1,47 @@
-# 👋 Hi, I’m Alif
+<h1 align="center">Hi 👋, I'm Alif</h1>
+<h3 align="center">AI & Data Enthusiast | Machine Learning | Data Engineering</h3>
 
-🎯 **AI & Data Enthusiast | Machine Learning | Data Engineering**  
-📍 Based in Indonesia | 🌐 [LinkedIn](http://www.linkedin.com/in/muhammad-alif-alferdiansyah-8a100927b) | 💻 [Portfolio](https://github.com/adaalif)
-
----
-
-## 🚀 What I Do
-- Build **AI-powered applications** that turn messy data into actionable insights.
-- Develop **data pipelines & dashboards** that support real business decisions.
-- Create **end-to-end ML systems**: from modeling ➝ deployment (cloud & mobile).
-- Productionize research models into **real-world APIs & Dockerized services**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F75C7E&center=true&vCenter=true&width=600&lines=Turning+Data+into+Decisions;Building+AI+that+Works+in+Production;Always+Learning+Always+Creating" />
+</p>
 
 ---
 
-## 🏆 Highlights
+### 🚀 About Me
 - 🎓 **Bangkit Academy ML Graduate** (Google x Gojek x Tokopedia x Traveloka)  
-- 🔬 Built a **Personalized Recipe Recommender** (Sentence-BERT + VAE, deployed on GCP with Docker)  
-- 💡 Designed an **NLP Review Analyzer** (Naive Bayes + TF-IDF) on the Yelp dataset  
-- 🛠️ Developed **Techporia**, an event management platform (REST APIs, payments, MySQL backend)  
-- 📊 Internship at **BPJS Ketenagakerjaan**, transforming organizational data into decision-ready dashboards  
-- 📚 **DETR Manga Text Bubble Detection (FastAPI + Docker)**  
-  - Production-ready REST API for manga/comic speech bubble detection using a fine-tuned DETR model  
-  - Features: batch prediction, annotated outputs, OpenAPI docs, healthcheck endpoints  
-  - Engineered a **compact CPU-only Docker image** (multi-stage build)  
-  - Added configurable runtime parameters (threshold/device) via env vars  
-  - Includes a simple demo UI served directly with FastAPI  
+- 🔬 Creator of **DETR Manga Text Bubble Detector** (FastAPI + Docker)  
+- 💡 Passionate about **AI for real-world impact**  
+- 📊 Internship @ **BPJS Ketenagakerjaan**: built dashboards from raw datasets  
+- 🛠️ Love shipping projects from **idea ➝ model ➝ API ➝ Docker ➝ cloud**
 
 ---
 
-## 🧰 Tech Stack
-**Languages**: Python, Java, PHP, SQL, JavaScript  
-**ML/AI**: TensorFlow, PyTorch, Scikit-learn, LangChain  
-**Data & Viz**: Pandas, NumPy, Tableau, Matplotlib  
-**APIs & Backend**: FastAPI, REST, Docker, Docker Compose  
-**Cloud/Deployment**: Google Cloud Platform (GCP), Firebase  
-**Tools**: Git, Jupyter Notebook, OpenCV, Hugging Face Transformers  
+### 🏆 Projects
+🔹 [**DETR Manga Text Bubble Detection**](https://github.com/adaalif) – REST API for speech bubble detection (FastAPI, Docker, PyTorch)  
+🔹 [**Recipe Recommendation System**](https://github.com/adaalif) – NLP + VAE deployed on GCP  
+🔹 [**NLP Review Analyzer**](https://github.com/adaalif) – Yelp sentiment classification with TF-IDF + Naive Bayes  
+🔹 [**Techporia**](https://github.com/adaalif) – Event management web app (CodeIgniter + MySQL)  
 
 ---
 
-## 📈 GitHub at a Glance
-![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=adaalif&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adaalif&layout=compact&theme=radical)
+### 🧰 Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,php,js,sql,tensorflow,pytorch,fastapi,docker,git,gcp,mysql,firebase,opencv" />
+</p>
 
 ---
 
-## 💬 Let’s Connect!
-I’m always excited to talk about:
-- 🔹 AI & ML for real-world impact  
-- 🔹 Data Engineering & Cloud Deployment  
-- 🔹 Opportunities to collaborate on impactful tech projects  
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adaalif&show_icons=true&theme=radical" alt="stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adaalif&theme=radical" alt="streak" height="180"/>
+</p>
 
-📩 Reach me at **alifalferdiansyah7@gmail.com**
+---
+
+### 📫 Let’s Connect
+<p align="center">
+  <a href="mailto:alifalferdiansyah7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="http://www.linkedin.com/in/muhammad-alif-alferdiansyah-8a100927b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/adaalif"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
