@@ -17,10 +17,9 @@
 ---
 
 ### 🏆 Projects
-🔹 [**DETR Manga Text Bubble Detection**](https://github.com/adaalif) – REST API for speech bubble detection (FastAPI, Docker, PyTorch)  
-🔹 [**Recipe Recommendation System**](https://github.com/adaalif) – NLP + VAE deployed on GCP  
-🔹 [**NLP Review Analyzer**](https://github.com/adaalif) – Yelp sentiment classification with TF-IDF + Naive Bayes  
-🔹 [**Techporia**](https://github.com/adaalif) – Event management web app (CodeIgniter + MySQL)  
+🔹 [**DETR Manga Text Bubble Detection**]([https://github.com/adaalif](https://github.com/adaalif/detecting-manga-panels-using-DETR-resnet-50)) – REST API for speech bubble detection (FastAPI, Docker, PyTorch)  
+🔹 [**Recipe Recommendation System**](https://github.com/adaalif/Bangkit-Capstone-Project) – NLP + VAE deployed on GCP  
+🔹 [**Techporia**]([https://github.com/adaalif](https://github.com/adaalif/Techporia-main-2024/tree/main/techporia23-main)) – Event management web app (CodeIgniter + MySQL)  
 
 ---
 
