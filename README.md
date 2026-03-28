@@ -10,19 +10,17 @@
 ### 🚀 About Me
 - 🎓 **Bangkit Academy ML Graduate** (Google x Gojek x Tokopedia x Traveloka)  
 - 🔬 Creator of **DETR Manga Text Bubble Detector** (FastAPI + Docker)  
-- 💡 Passionate about **AI for real-world impact**  
-- 📊 Internship @ **BPJS Ketenagakerjaan**: built dashboards from raw datasets  
+- 💡 Passionate about **AI for real-world impact** - 📊 Internship @ **BPJS Ketenagakerjaan**: built dashboards from raw datasets  
 - 🛠️ Love shipping projects from **idea ➝ model ➝ API ➝ Docker ➝ cloud**
 
 ---
 
 ### 🏆 Projects
-🔹 [**DETR Manga Text Bubble Detection**]([https://github.com/adaalif](https://github.com/adaalif/detecting-manga-panels-using-DETR-resnet-50)) – REST API for speech bubble detection (FastAPI, Docker, PyTorch)  
-🔹 [**Recipe Recommendation System**](https://github.com/adaalif/Bangkit-Capstone-Project) – NLP + VAE deployed on GCP  
-🔹 [**Techporia**]([https://github.com/adaalif](https://github.com/adaalif/Techporia-main-2024/tree/main/techporia23-main)) – Event management web app (CodeIgniter + MySQL)  
-🔹 [**End-to-End MLOps: Churn Prediction API**]([https://github.com/adaalif/Bangkit-Capstone-Project](https://github.com/adaalif/End-to-End-ML.git)) – A production-grade machine learning microservice for predicting customer churn. This project demonstrates core MLOps principles including model serialization, mitigating training-serving skew, automated testing, containerization, and data drift monitoring.
-
- 
+🔹 [**AI-Powered Financial Tracker**](#) – Automated workflow for expense categorization and financial analysis. (LangChain, n8n, Groq API, Google Sheets API)  
+🔹 [**DETR Manga Text Bubble Detection**](https://github.com/adaalif/detecting-manga-panels-using-DETR-resnet-50) – REST API for speech bubble detection. (FastAPI, Docker, PyTorch)  
+🔹 [**Recipe Recommendation System**](https://github.com/adaalif/Bangkit-Capstone-Project) – NLP + VAE deployed on GCP.  
+🔹 [**Techporia**](https://github.com/adaalif/Techporia-main-2024/tree/main/techporia23-main) – Event management web app. (CodeIgniter + MySQL)  
+🔹 [**End-to-End MLOps: Churn Prediction API**](https://github.com/adaalif/End-to-End-ML.git) – A production-grade machine learning microservice for predicting customer churn. Demonstrates core MLOps principles including model serialization, mitigating training-serving skew, automated testing, containerization, and data drift monitoring.
 
 ---
 
