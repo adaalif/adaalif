@@ -154,6 +154,7 @@ A recommendation system built for a Bangkit capstone project using NLP and VAE-b
 An assistant for finding, comparing, and summarizing research papers.
 
 **Stack:** `Python` `RAG` `Vector Database` `LLM` `Information Retrieval`
+[Repository]([https://github.com/adaalif/Bangkit-Capstone-Project](https://github.com/adaalif/Agentic-RAG))
 
 ---
 
@@ -162,6 +163,7 @@ An assistant for finding, comparing, and summarizing research papers.
 A dashboard that analyzes job postings for AI Engineer, Data Scientist, and Machine Learning Engineer roles worldwide. It extracts skills, seniority levels, and role trends from job descriptions.
 
 **Stack:** `Python` `Pandas` `Regex` `JavaScript` `Chart.js`
+[Live website]([[https://github.com/adaalif/Bangkit-Capstone-Project](https://github.com/adaalif/Agentic-RAG)](https://ai-jobs-dashboard-three.vercel.app/))
 
 ---
 
